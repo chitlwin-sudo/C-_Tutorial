@@ -1,0 +1,9 @@
+bin
+obj
+packages
+Logs
+./MaterialTrackingAPI-Dummy/bin
+./MaterialTrackingAPI-Dummy/obj
+./MaterialTrackingAPI-Dummy/packages
+.vs
+.config
